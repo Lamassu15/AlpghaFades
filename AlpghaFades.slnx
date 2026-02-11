@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="alpghafades.client/alpghafades.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AlpghaFades.Server/AlpghaFades.Server.csproj" />
+</Solution>
