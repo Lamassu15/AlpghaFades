@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:50434",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\kakya\\source\\repos\\AlpghaFades\\AlpghaFades.Server\\..\\alpghafades.client",
+"WorkingDirectory": "C:\\Users\\kakya\\source\\repos\\Lamassu15\\AlpghaFades\\AlpghaFades.Server\\..\\alpghafades.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
